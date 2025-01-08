@@ -10,7 +10,7 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 - 📊 Una solución ERP y CRM diseñada para optimizar la gestión de datos para una empresa de alquiler de vehículos.  
 - ⚙️ Desarrollado con Java y SpringBoot.  
 
-### **Valorant Info** 🎮 (2022/2023) - Finalizado v.1
+### **[Valorant Info](https://github.com/MarcBotana/ValorantInfo-App)** 🎮 (2022/2023) - Finalizado v.1
 - 📊 Una aplicación móvil y web que brinda toda la información de los personajes y habilidades del videojuego Valorant.  
 - ⚙️ Desarrollado con Kotlin - Android Studio.
 
