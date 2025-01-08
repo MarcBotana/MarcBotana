@@ -14,7 +14,7 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 - 📊 Una aplicación móvil y web que brinda toda la información de los personajes y habilidades del videojuego Valorant.  
 - ⚙️ Desarrollado con Kotlin - Android Studio.
 
-### **Overwatch 2 App** 🎮 (2022/ - ) - En desarollo...
+### **[Overwatch 2 App](https://github.com/A19Narcis/Overwatch_2_App)** 🎮 (2022/ - ) - En desarollo...
 - 📊 Una aplicación móvil y web que brinda toda la información sobre el videojuego Overwatch 2.  
 - ⚙️ Desarrollado con Kotlin - Android Studio y Java - SpringBoot.
 - 🌟 ¡Pronto disponible en este repositorio!
