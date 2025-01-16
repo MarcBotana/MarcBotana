@@ -6,12 +6,12 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 ---
 
 ## ✨ Proyectos:
-### **[OpenRoad](https://github.com/MarcBotana/OpenRoad)** 🚗 (2024/2025) - Finalizado v.0.1
+### **[OpenRoad](https://github.com/MarcBotana/OpenRoad)** 🚗 (2024/2025) - Beta v.1
 - 📊 Una solución ERP y CRM diseñada para optimizar la gestión de datos para una empresa de alquiler de vehículos.  
 - ⚙️ Desarrollado con Java y SpringBoot.  
 
-### **[Valorant Info](https://github.com/MarcBotana/ValorantInfo-App)** 🎮 (2022/2023) - Finalizado v.1
-- 📊 Una aplicación móvil y web que brinda toda la información de los personajes y habilidades del videojuego Valorant.  
+### **[Valorant Info](https://github.com/MarcBotana/ValorantInfo-App)** 🎮 (2022/2023) - Beta v.1
+- 📊 Una aplicación móvil que brinda toda la información de los personajes y habilidades del videojuego Valorant.  
 - ⚙️ Desarrollado con Kotlin - Android Studio.
 
 ### **[Overwatch 2 App](https://github.com/A19Narcis/Overwatch_2_App)** 🎮 (2022/ - ) - En desarollo...
