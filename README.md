@@ -6,6 +6,10 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 ---
 
 ## ✨ Proyectos:
+### **[My Cards](https://github.com/MarcBotana/My-Cards)** 🃏 (2025/2025) - Beta v.1
+- 📊 Una aplicación de creación y colección de cartas personalizadas.  
+- ⚙️ Desarrollado con Java y SpringBoot (Backend) Kortlin y Retrofit2 (Frontend).  
+
 ### **[OpenRoad](https://github.com/MarcBotana/OpenRoad)** 🚗 (2024/2025) - Beta v.1
 - 📊 Una solución ERP y CRM diseñada para optimizar la gestión de datos para una empresa de alquiler de vehículos.  
 - ⚙️ Desarrollado con Java y SpringBoot.  
