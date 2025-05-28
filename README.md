@@ -6,6 +6,10 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 ---
 
 ## ✨ Proyectos:
+### **[Perfect Shot!](https://github.com/MarcBotana/Perfect-Shot-)** 🃏 (2025/2025) - Demo v.1
+- 📊 Un Juego en 3º persona donde controlas a un juagdor de futbol en un minijuego de marcar goles.  
+- ⚙️ Desarrollado con Uniti 6.1.  
+
 ### **[My Cards](https://github.com/MarcBotana/My-Cards)** 🃏 (2025/2025) - Beta v.1
 - 📊 Una aplicación de creación y colección de cartas personalizadas.  
 - ⚙️ Desarrollado con Java y SpringBoot (Backend) Kortlin y Retrofit2 (Frontend).  
