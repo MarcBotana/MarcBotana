@@ -7,7 +7,7 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 
 ## ✨ Proyectos:
 ### **[Entre Bicis!](https://github.com/MarcBotana/EntreBicis)** 🚴‍♂️ (2025/2025)
-- 📊 Un ERP y CRM diseñado para la gestión de una aplicación móvil de realización de rutas en bicicleta y canjeo de recompensas en base a los puntos generados con las rutas. 
+- 📊 Un ERP y CRM diseñado para la gestión de una aplicación móvil de realización de rutas en bicicleta y recalmación de recompensas en base a los puntos generados con las rutas. 
 - ⚙️ Desarrollado con Java y SpringBoot (Backend) Kortlin y Retrofit2 (Frontend).   
 
 ### **[Perfect Shot!](https://github.com/MarcBotana/Perfect-Shot-)** ⚽ (2025/2025)
