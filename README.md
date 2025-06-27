@@ -1,7 +1,7 @@
 ¡Hola! 👋 
 Soy **Marc Botana Martínez**, graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un gran interés por la programación y el diseño. 
 
-Espero seguir formándome como programador para así alcanzar mis metas como 💻 **Desarrollador Profesional** y poder crear mis propios proyectos y colaborar en otros :)
+Espero seguir formándome como programador para así alcanzar mis metas como 💻 **Desarrollador Profesional** y poder crear mis propios proyectos y/o colaborar en otros :)
 
 ---
 
