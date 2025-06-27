@@ -6,23 +6,23 @@ Espero seguir formándome como programador para así alcanzar mis metas como �
 ---
 
 ## ✨ Proyectos:
-### **[Entre Bicis!](https://github.com/MarcBotana/EntreBicis)** 🚴‍♂️ (2025/2025) - Beta v.1
+### **[Entre Bicis!](https://github.com/MarcBotana/EntreBicis)** 🚴‍♂️ (2025/2025)
 - 📊 Un ERP y CRM diseñado para la gestión de una aplicación móvil de realización de rutas en bicicleta y canjeo de recompensas en base a los puntos generados con las rutas. 
 - ⚙️ Desarrollado con Java y SpringBoot (Backend) Kortlin y Retrofit2 (Frontend).   
 
-### **[Perfect Shot!](https://github.com/MarcBotana/Perfect-Shot-)** ⚽ (2025/2025) - Demo v.1
+### **[Perfect Shot!](https://github.com/MarcBotana/Perfect-Shot-)** ⚽ (2025/2025)
 - 📊 Un juego en tercera persona donde controlas a un jugador de fútbol en un minijuego de marcar goles.
 - ⚙️ Desarrollado con Uniti 6.1.  
 
-### **[My Cards](https://github.com/MarcBotana/My-Cards)** 🃏 (2025/2025) - Beta v.1
+### **[My Cards](https://github.com/MarcBotana/My-Cards)** 🃏 (2025/2025)
 - 📊 Una aplicación de creación y colección de cartas personalizadas.  
 - ⚙️ Desarrollado con Java y SpringBoot (Backend) Kortlin y Retrofit2 (Frontend).  
 
-### **[OpenRoad](https://github.com/MarcBotana/OpenRoad)** 🚗 (2024/2025) - Beta v.1
+### **[OpenRoad](https://github.com/MarcBotana/OpenRoad)** 🚗 (2024/2025)
 - 📊 Una solución ERP y CRM diseñada para optimizar la gestión de datos para una empresa de alquiler de vehículos.  
 - ⚙️ Desarrollado con Java y SpringBoot.  
 
-### **[Valorant Info](https://github.com/MarcBotana/ValorantInfo-App)** 🎮 (2022/2023) - Beta v.1
+### **[Valorant Info](https://github.com/MarcBotana/ValorantInfo-App)** 🎮 (2022/2023)
 - 📊 Una aplicación móvil que brinda toda la información de los personajes y habilidades del videojuego Valorant.  
 - ⚙️ Desarrollado con Kotlin - Android Studio.
 
